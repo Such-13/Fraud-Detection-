@@ -52,7 +52,7 @@ This repository contains four Python-based fraud detection projects, each focusi
 - **Installation**:
   ```bash
   pip install -r requirements.txt
-```
+  ```
 ## Setup Instructions
 
 ### Clone the Repository
