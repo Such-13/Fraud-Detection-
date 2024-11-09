@@ -43,6 +43,8 @@ This repository contains four Python-based fraud detection projects, each focusi
 │   ├── fraud.csv
 │   ├── LSTM Model.py
 ├── README.md
+
+```
 ## Requirements
 
 - **Python**: 3.8 or higher
